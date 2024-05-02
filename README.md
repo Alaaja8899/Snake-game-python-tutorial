@@ -1,6 +1,7 @@
 # Snake Game Python Tutorial
 
 This is a simple Snake game implemented in Python, created for a tutorial video.
+[Watch the video](https://www.facebook.com/100079169779779/videos/2131874030522791/)
 
 ## Requirements
 - Python3
